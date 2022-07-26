@@ -9,6 +9,10 @@ body {
 	text-align: center;
 }
 
+#button-container{
+    text-align: center;
+}
+
 /* Links */
 
 a, a:focus, a:hover, a:visited {
